@@ -1,10 +1,22 @@
-📊 Marketing Campaign Performance Analysis
+# 📊 Marketing Campaign Performance Analysis
 
 This project simulates a real-world marketing data analysis scenario where 10,000 rows of campaign performance data were analyzed using Python and Tableau. The goal was to derive actionable insights to improve marketing ROI, reduce customer acquisition costs, and optimize overall campaign performance across various channels and audience segments.
 
+## 🔧 Tools Used
+- Python (Pandas, Matplotlib)
+- Excel / Tableau
+- SQL (for querying-style transformations)
+- GitHub for version control
+
+## 📊 Key Metrics
+- CTR (Click-Through Rate)
+- Conversion Rate
+- CPA (Cost per Acquisition)
+- ROI (Return on Investment)
+
 ---
 
-🧠 Project Objectives
+## 🧠 Project Objectives
 
 - Analyze marketing campaign data to uncover key performance drivers
 - Create KPIs such as CTR, Conversion Rate, CPA, and ROI
@@ -46,9 +58,9 @@ This project simulates a real-world marketing data analysis scenario where 10,00
 
 ### 3. 🛠 Feature Engineering
 Calculated key performance indicators:
-- Click-Through Rate (CTR) = Clicks / Impressions
-- Conversion Rate = Conversions / Clicks
-- Cost Per Click (CPC)** = Ad Spend / Clicks
+- **Click-Through Rate (CTR)** = Clicks / Impressions
+- **Conversion Rate** = Conversions / Clicks
+- **Cost Per Click (CPC)** = Ad Spend / Clicks
 - **Cost Per Acquisition (CPA)** = Ad Spend / Conversions
 - **Return on Investment (ROI)** = ((Conversions × \$50) - Ad Spend) / Ad Spend
 
@@ -75,9 +87,9 @@ Calculated key performance indicators:
 | `marketing_campaign_data.xlsx` | Original simulated dataset |
 | `analysis.py` | Python script for data cleaning, transformation, and analysis |
 | `enhanced_marketing_data.xlsx` | Final processed dataset ready for Tableau |
-| `dashboard_screenshots/` | Screenshots of Tableau dashboards |
+| `dashboard_images/` | Screenshots of Tableau dashboards |
 | `README.md` | Project documentation |
-| `tableau_dashboard_link.txt` | Link to live Tableau dashboard *(optional)* |
+| `marketing_dashboard.twbx` | Attached Tableau dashboard |
 
 ---
 
@@ -87,32 +99,3 @@ Calculated key performance indicators:
 - 💰 **Parents** were the most cost-effective audience segment based on CPA.
 - 🌎 **Midwest** region had the most efficient conversion rates.
 - 📉 **Email** had the lowest CTR but highest conversion rate, suggesting it works well for targeted audiences.
-
----
-
-## 🚀 Skills Demonstrated
-
-- Data Cleaning & Transformation (Pandas, Excel)
-- Metric Definition & Business Logic
-- Analytical Thinking (ROI, CAC, CTR, etc.)
-- Data Visualization & Dashboard Design (Tableau)
-- Communication of Findings (via visuals and narrative)
-- GitHub project structuring & documentation
-
----
-
-## 🔗 View Tableau Dashboard
-
-📍 **[Click here to view the Tableau Public Dashboard](#)**  
-*(Replace with your actual Tableau Public link)*
-
----
-
-## 🤝 Connect With Me
-
-- 📧 [mewahanggaurav@gmail.com](mailto:mewahanggaurav@gmail.com)
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINKEDIN)
-- 🧠 Portfolio Website (Coming Soon)
-
----
-
