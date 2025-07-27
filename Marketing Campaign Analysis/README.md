@@ -3,16 +3,16 @@
 This project simulates a real-world marketing data analysis scenario where 10,000 rows of campaign performance data were analyzed using Python and Tableau. The goal was to derive actionable insights to improve marketing ROI, reduce customer acquisition costs, and optimize overall campaign performance across various channels and audience segments.
 
 ## 🔧 Tools Used
-- Python (Pandas, Matplotlib)
-- Excel / Tableau
-- SQL (for querying-style transformations)
-- GitHub for version control
+- Python (Pandas) to simulate SQL-like operations
+- Microsoft Excel
+- Tableau
+- GitHub
 
 ## 📊 Key Metrics
 - CTR (Click-Through Rate)
-- Conversion Rate
 - CPA (Cost per Acquisition)
 - ROI (Return on Investment)
+- Conversion Rate
 
 ---
 
